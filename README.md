@@ -1,2 +1,1 @@
-# Progams_Cefet_C
-Contains the files of several lists of Cefet-Mg programming in C
+# Programas em C desenvolvidos para a Matéria de Programação de Computadores 1 - CEFET-MG
